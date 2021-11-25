@@ -1,2 +1,2 @@
-# car-resale-price-predictor
+# Car Resale Price Predictor
  
