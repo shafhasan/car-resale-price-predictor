@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik&display=swap');
+
+body {
+  font-family: Rubik;
+  background-color: rgb(159, 164, 168);
+  text-align: center;
+}
+
+select{
+  font-family: Rubik;
+  font-size: 18px;
+  padding: 8px;
+  margin-bottom: 16px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.input {
+  margin-bottom: 16px;
+  border-radius: 10px;
+  height: 25px;
+  font-size: 28px;
+  text-align: center;
+}
+
+button {
+  font-family: Rubik;
+  background-color: rgb(125, 218, 187);
+  font-size: 16px;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+}
+
+button:hover {
+  background-color: rgb(185, 223, 210);
+}
